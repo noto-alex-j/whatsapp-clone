@@ -5,6 +5,7 @@
     "start": "meteor run"
   },
   "dependencies": {
+    "angular-ecmascript": "0.0.3",
     "meteor-node-stubs": "~0.2.0"
   }
 }
